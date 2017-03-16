@@ -5,5 +5,5 @@
 
 由 @[GHLandy](https://github.com/GHLandy) 维护。
 
-- [消沉的程序员系列](https://github.com/LCTT/TranslateProject/blob/master/translated/comic/20170314%206%20The%20Depressed%20Developer%20series.md)
+- [消沉的程序员系列](https://github.com/GHLandy/comic/blob/master/turnoff.us/depressed-developer-series/20170314%20The%20Depressed%20Developer%20series.md)
 - 静待后续
