@@ -1,6 +1,6 @@
 # Sudo Game
 
-「图片URL」
+![sudo board game](https://github.com/bestony/comic/raw/master/turnoff.us/sudo-board-game/sudo-board-game.png)
 
 今天为大家带来一款棋盘游戏 **Sudo**。
 
