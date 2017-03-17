@@ -11,6 +11,6 @@
 
 - 静待后续
 
-- 2、[Sudo Game](https://github.com/bestony/comic/blob/master/turnoff.us/sudo-board-game\sudo-board-game.md) (由 bestony 汉化)
+- 2、[Sudo Game](https://github.com/bestony/comic/blob/master/turnoff.us/sudo-board-game/sudo-board-game.md) (由 bestony 汉化)
 
-- 1、[消沉的程序员系列](https://github.com/GHLandy/comic/blob/master/turnoff.us/depressed-developer-series\The-Depressed-Developer-series.md) (由 GHLandy 汉化)
+- 1、[消沉的程序员系列](https://github.com/GHLandy/comic/blob/master/turnoff.us/depressed-developer-series/The-Depressed-Developer-series.md) (由 GHLandy 汉化)
