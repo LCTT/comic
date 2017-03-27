@@ -9,9 +9,9 @@ turnoff.us 漫画汉化
 
 - 静待后续
 
-- 7、[是否使用 Vi](https://github.com/LCTT/comic/blob/master/turnoff.us/to-vi-or-not-to-vi/to-vi-or-not-to-vi.md) (由 GHLandy 汉化)
+- 7、[Vi 还是不 Vi，这是个问题](https://github.com/LCTT/comic/blob/master/turnoff.us/to-vi-or-not-to-vi/to-vi-or-not-to-vi.md) (由 GHLandy 汉化)
 
-  未发布
+  发布在：[https://linux.cn/article-8342-1.html](https://linux.cn/article-8342-1.html)
 
 - 6、[Linux 爱好者的飞行棋](https://github.com/LCTT/comic/blob/master/turnoff.us/sudo-board-game/sudo-board-game.md) (由 bestony 汉化)
 
