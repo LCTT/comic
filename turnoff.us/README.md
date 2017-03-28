@@ -7,7 +7,7 @@ turnoff.us 漫画汉化
 
 如未特别注明，则漫画汉化与鉴评同为一人。
 
-- 静待后续
+- [静待后续汉化](https://github.com/LCTT/comic/blob/master/turnoff.us/turnoff.us.md)
 
 - 7、[Vi 还是不 Vi，这是个问题](https://github.com/LCTT/comic/blob/master/turnoff.us/to-vi-or-not-to-vi/to-vi-or-not-to-vi.md) (由 GHLandy 汉化)
 
