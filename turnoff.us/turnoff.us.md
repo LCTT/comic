@@ -1,5 +1,11 @@
-Index of turnoff.us
+turnoff.us 上待汉化的漫画
 ====================
+
+*   ### [Life (and Death) in the DB Connection Pool][6]
+
+*   ### [Ghost in the Shell][5]
+
+*   ### [Linus Torvald's House][2]
 
 *   ### [Ode To My Family][1]
 
@@ -7,15 +13,9 @@ Index of turnoff.us
 
 *   ### [#!S][4]
 
-*   ### [User Space Election][6]
-
-*   ### [The War for Port 80][8]
-
 *   ### [Adopt a good cause, DON'T SIGKILL][10]
 
 *   ### [Happy 0b11111100001][11]
-
-*   ### [Bash History][12]
 
 *   ### [My (Dev) Morning Routine][13]
 
@@ -41,13 +41,9 @@ Index of turnoff.us
 
 *   ### [The Truth About Google][29]
 
-*   ### [Inside the Linux Kernel][30]
-
 *   ### [Programmer Levels][31]
 
 *   ### [Microservices][32]
-
-*   ### [Binary Tree][33]
 
 *   ### [Annoying Software 4 - Checkbox vs Radio Button][34]
 
@@ -68,8 +64,6 @@ Index of turnoff.us
 *   ### [Dotnet on Linux][42]
 
 *   ### [Who Killed MySQL?][43]
-
-*   ### [To VI Or Not To VI][44]
 
 *   ### [Brothers Conflict (at linux kernel)][45]
 
@@ -165,15 +159,14 @@ Index of turnoff.us
 
 *   ### [TCP Buddies][91]
 
-
+[6]:https://turnoff.us/geek/db-connection-pool
+[5]:https://turnoff.us/geek/ghost-in-the-shell
+[2]:https://turnoff.us/geek/linus-torvalds-house
 [1]:https://turnoff.us/geek/ode-to-my-family
 [3]:https://turnoff.us/geek/the-jealous-process
 [4]:https://turnoff.us/geek/shebang
-[6]:https://turnoff.us/geek/user-space-election
-[8]:https://turnoff.us/geek/apache-vs-nginx
 [10]:https://turnoff.us/geek/dont-sigkill-2
 [11]:https://turnoff.us/geek/2016-2017
-[12]:https://turnoff.us/geek/bash-history
 [13]:https://turnoff.us/geek/my-morning-routine
 [15]:https://turnoff.us/geek/dont-share-mutable-state
 [16]:https://turnoff.us/geek/sql-injection
@@ -186,10 +179,8 @@ Index of turnoff.us
 [27]:https://turnoff.us/geek/deadline
 [28]:https://turnoff.us/geek/ubuntu-core
 [29]:https://turnoff.us/geek/the-truth-about-google
-[30]:https://turnoff.us/geek/inside-the-linux-kernel
 [31]:https://turnoff.us/geek/programmer-leves
 [32]:https://turnoff.us/geek/microservices
-[33]:https://turnoff.us/geek/binary-tree
 [34]:https://turnoff.us/geek/annoying-software-4
 [35]:https://turnoff.us/geek/zombie-processes
 [36]:https://turnoff.us/geek/poprocks-and-coke
@@ -200,7 +191,6 @@ Index of turnoff.us
 [41]:https://turnoff.us/geek/sad-robot
 [42]:https://turnoff.us/geek/dotnet-on-linux
 [43]:https://turnoff.us/geek/who-killed-mysql
-[44]:https://turnoff.us/geek/to-vi-or-not-to-vi
 [45]:https://turnoff.us/geek/brothers-conflict
 [46]:https://turnoff.us/geek/big-numbers
 [47]:https://turnoff.us/geek/codeless
