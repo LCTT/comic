@@ -1,240 +1,158 @@
 turnoff.us 上待汉化的漫画
 ====================
 
-*   ### [Life (and Death) in the DB Connection Pool][6]
+最后更新于：2017 年 03 月 29 日
 
-*   ### [Ghost in the Shell][5]
+*   ## [Life (and Death) in the DB Connection Pool](https://turnoff.us/geek/db-connection-pool)
 
-*   ### [Linus Torvald's House][2]
+*   ## [Ghost in the Shell](https://turnoff.us/geek/ghost-in-the-shell)
 
-*   ### [Ode To My Family][1]
+*   ## [Linus Torvald's House](https://turnoff.us/geek/linus-torvalds-house)
 
-*   ### [The Jealous Process][3]
+*   ## [Ode To My Family](https://turnoff.us/geek/ode-to-my-family)
 
-*   ### [#!S][4]
+*   ## [The Jealous Process](https://turnoff.us/geek/the-jealous-process)
 
-*   ### [Adopt a good cause, DON'T SIGKILL][10]
+*   ## [#!S](https://turnoff.us/geek/shebang)
 
-*   ### [Happy 0b11111100001][11]
+*   ## [Adopt a good cause, DON'T SIGKILL](https://turnoff.us/geek/dont-sigkill-2)
 
-*   ### [My (Dev) Morning Routine][13]
+*   ## [Happy 0b11111100001](https://turnoff.us/geek/2016-2017)
 
-*   ### [The Real Reason Not To Share a Mutable State][15]
+*   ## [My (Dev) Morning Routine](https://turnoff.us/geek/my-morning-routine)
 
-*   ### [Any Given Day][16]
+*   ## [The Real Reason Not To Share a Mutable State](https://turnoff.us/geek/dont-share-mutable-state)
 
-*   ### [One Last Question][17]
+*   ## [Any Given Day](https://turnoff.us/geek/sql-injection)
 
-*   ### [Protocols][22]
+*   ## [One Last Question](https://turnoff.us/geek/one-last-question)
 
-*   ### [The Lord of The Matrix][23]
+*   ## [Protocols](https://turnoff.us/geek/protocols)
 
-*   ### [Inheritance versus Composition][24]
+*   ## [The Lord of The Matrix](https://turnoff.us/geek/the-lord-of-the-matrix)
 
-*   ### [Coding From Anthill][25]
+*   ## [Inheritance versus Composition](https://turnoff.us/geek/inheritance-versus-composition)
 
-*   ### [Life of Embedded Processes][26]
+*   ## [Coding From Anthill](https://turnoff.us/geek/ant)
 
-*   ### [Deadline][27]
+*   ## [Life of Embedded Processes](https://turnoff.us/geek/ubuntu-core-2)
 
-*   ### [Ubuntu Core][28]
+*   ## [Deadline](https://turnoff.us/geek/deadline)
 
-*   ### [The Truth About Google][29]
+*   ## [Ubuntu Core](https://turnoff.us/geek/ubuntu-core)
 
-*   ### [Programmer Levels][31]
+*   ## [The Truth About Google](https://turnoff.us/geek/the-truth-about-google)
 
-*   ### [Microservices][32]
+*   ## [Programmer Levels](https://turnoff.us/geek/programmer-leves)
 
-*   ### [Annoying Software 4 - Checkbox vs Radio Button][34]
+*   ## [Microservices](https://turnoff.us/geek/microservices)
 
-*   ### [Zombie Processes][35]
+*   ## [Annoying Software 4 - Checkbox vs Radio Button](https://turnoff.us/geek/annoying-software-4)
 
-*   ### [Poprocks and Coke][36]
+*   ## [Zombie Processes](https://turnoff.us/geek/zombie-processes)
 
-*   ### [jhamlet][37]
+*   ## [Poprocks and Coke](https://turnoff.us/geek/poprocks-and-coke)
 
-*   ### [Java Thread Life][38]
+*   ## [jhamlet](https://turnoff.us/geek/jhamlet)
 
-*   ### [Stranger Things - In The SysAdmin's World][39]
+*   ## [Java Thread Life](https://turnoff.us/geek/java-thread-life)
 
-*   ### [Who Killed MySQL? - Epilogue][40]
+*   ## [Stranger Things - In The SysAdmin's World](https://turnoff.us/geek/stranger-things-sysadmin-world)
 
-*   ### [Sometimes They Are][41]
+*   ## [Who Killed MySQL? - Epilogue](https://turnoff.us/geek/who-killed-mysql-epilogue)
 
-*   ### [Dotnet on Linux][42]
+*   ## [Sometimes They Are](https://turnoff.us/geek/sad-robot)
 
-*   ### [Who Killed MySQL?][43]
+*   ## [Dotnet on Linux](https://turnoff.us/geek/dotnet-on-linux)
 
-*   ### [Brothers Conflict (at linux kernel)][45]
+*   ## [Who Killed MySQL?](https://turnoff.us/geek/who-killed-mysql)
 
-*   ### [Big Numbers][46]
+*   ## [Brothers Conflict (at linux kernel)](https://turnoff.us/geek/brothers-conflict)
 
-*   ### [The Codeless Developer][47]
+*   ## [Big Numbers](https://turnoff.us/geek/big-numbers)
 
-*   ### [Introducing the OOM Killer][48]
+*   ## [The Codeless Developer](https://turnoff.us/geek/codeless)
 
-*   ### [Reactive and Boring][49]
+*   ## [Introducing the OOM Killer](https://turnoff.us/geek/oom-killer)
 
-*   ### [Hype Detected][50]
+*   ## [Reactive and Boring](https://turnoff.us/geek/reactive-and-boring)
 
-*   ### [3rd World Daily News][51]
+*   ## [Hype Detected](https://turnoff.us/geek/tech-adoption)
 
-*   ### [Java Evolution Parade][52]
+*   ## [3rd World Daily News](https://turnoff.us/geek/3rd-world-news)
 
-*   ### [The Opposite of RIP][53]
+*   ## [Java Evolution Parade](https://turnoff.us/geek/java-evolution-parade)
 
-*   ### [How I Met Your Mother][54]
+*   ## [The Opposite of RIP](https://turnoff.us/geek/opposite-of-rip)
 
-*   ### [Schrödinger's Cat Last Declarations][55]
+*   ## [How I Met Your Mother](https://turnoff.us/geek/how-i-met-your-mother)
 
-*   ### [Bash on Windows][56]
+*   ## [Schrödinger's Cat Last Declarations](https://turnoff.us/geek/schrodinger-cat)
 
-*   ### [Ubuntu Updates][57]
+*   ## [Bash on Windows](https://turnoff.us/geek/bash-on-windows)
 
-*   ### [SQL Server on Linux Part 2][58]
+*   ## [Ubuntu Updates](https://turnoff.us/geek/ubuntu-updates)
 
-*   ### [About JavaScript Developers][59]
+*   ## [SQL Server on Linux Part 2](https://turnoff.us/geek/sql-server-on-linux-2)
 
-*   ### [The Real Reason to Not Use SIGKILL][60]
+*   ## [About JavaScript Developers](https://turnoff.us/geek/love-ecma6)
 
-*   ### [Java 20 - Predictions][61]
+*   ## [The Real Reason to Not Use SIGKILL](https://turnoff.us/geek/dont-sigkill)
 
-*   ### [Do the Evolution, Baby!][62]
+*   ## [Java 20 - Predictions](https://turnoff.us/geek/java20-predictions)
 
-*   ### [SQL Server on Linux][63]
+*   ## [Do the Evolution, Baby!](https://turnoff.us/geek/its-evolution-baby)
 
-*   ### [When Just-In-Time Is Justin Time][64]
+*   ## [SQL Server on Linux](https://turnoff.us/geek/sql-server-on-linux)
 
-*   ### [The Agile Restaurant][65]
+*   ## [When Just-In-Time Is Justin Time](https://turnoff.us/geek/lazy-justin-is-late-again)
 
-*   ### [I Love Windows PowerShell][66]
+*   ## [The Agile Restaurant](https://turnoff.us/geek/agile-restaurant)
 
-*   ### [Linux Master Hero][67]
+*   ## [I Love Windows PowerShell](https://turnoff.us/geek/love-powershell)
 
-*   ### [Doing a Great Job Together][68]
+*   ## [Linux Master Hero](https://turnoff.us/geek/linux-master-hero)
 
-*   ### [Geek Rivalries][69]
+*   ## [Doing a Great Job Together](https://turnoff.us/geek/duke-tux)
 
-*   ### [A Java Nightmare][70]
+*   ## [Geek Rivalries](https://turnoff.us/geek/geek-rivalries)
 
-*   ### [Java Family Crisis][71]
-
-*   ### [Annoying Software 3 - The Date Situation][72]
-
-*   ### [The (Sometimes Hard) Cloud Journey][73]
-
-*   ### [Thread.Sleep Room][74]
-
-*   ### [Web Server Upgrade Training][75]
-
-*   ### [Life in a Web Server][76]
-
-*   ### [Mastering RegExp][77]
-
-*   ### [Java Collections in Duck Life][78]
-
-*   ### [Java Garbage Collection Explained][79]
-
-*   ### [Waze vs Battery][80]
-
-*   ### [Masks][81]
-
-*   ### [Big Data Marriage][82]
-
-*   ### [Annoying Software 2][83]
-
-*   ### [Annoying Software][84]
-
-*   ### [Advanced Species][85]
-
-*   ### [The Modern Evil][86]
-
-*   ### [Software Testing][87]
-
-*   ### [Arduino Project][88]
-
-*   ### [Tales of DOS][89]
-
-*   ### [Developers][90]
-
-*   ### [TCP Buddies][91]
-
-[6]:https://turnoff.us/geek/db-connection-pool
-[5]:https://turnoff.us/geek/ghost-in-the-shell
-[2]:https://turnoff.us/geek/linus-torvalds-house
-[1]:https://turnoff.us/geek/ode-to-my-family
-[3]:https://turnoff.us/geek/the-jealous-process
-[4]:https://turnoff.us/geek/shebang
-[10]:https://turnoff.us/geek/dont-sigkill-2
-[11]:https://turnoff.us/geek/2016-2017
-[13]:https://turnoff.us/geek/my-morning-routine
-[15]:https://turnoff.us/geek/dont-share-mutable-state
-[16]:https://turnoff.us/geek/sql-injection
-[17]:https://turnoff.us/geek/one-last-question
-[22]:https://turnoff.us/geek/protocols
-[23]:https://turnoff.us/geek/the-lord-of-the-matrix
-[24]:https://turnoff.us/geek/inheritance-versus-composition
-[25]:https://turnoff.us/geek/ant
-[26]:https://turnoff.us/geek/ubuntu-core-2
-[27]:https://turnoff.us/geek/deadline
-[28]:https://turnoff.us/geek/ubuntu-core
-[29]:https://turnoff.us/geek/the-truth-about-google
-[31]:https://turnoff.us/geek/programmer-leves
-[32]:https://turnoff.us/geek/microservices
-[34]:https://turnoff.us/geek/annoying-software-4
-[35]:https://turnoff.us/geek/zombie-processes
-[36]:https://turnoff.us/geek/poprocks-and-coke
-[37]:https://turnoff.us/geek/jhamlet
-[38]:https://turnoff.us/geek/java-thread-life
-[39]:https://turnoff.us/geek/stranger-things-sysadmin-world
-[40]:https://turnoff.us/geek/who-killed-mysql-epilogue
-[41]:https://turnoff.us/geek/sad-robot
-[42]:https://turnoff.us/geek/dotnet-on-linux
-[43]:https://turnoff.us/geek/who-killed-mysql
-[45]:https://turnoff.us/geek/brothers-conflict
-[46]:https://turnoff.us/geek/big-numbers
-[47]:https://turnoff.us/geek/codeless
-[48]:https://turnoff.us/geek/oom-killer
-[49]:https://turnoff.us/geek/reactive-and-boring
-[50]:https://turnoff.us/geek/tech-adoption
-[51]:https://turnoff.us/geek/3rd-world-news
-[52]:https://turnoff.us/geek/java-evolution-parade
-[53]:https://turnoff.us/geek/opposite-of-rip
-[54]:https://turnoff.us/geek/how-i-met-your-mother
-[55]:https://turnoff.us/geek/schrodinger-cat
-[56]:https://turnoff.us/geek/bash-on-windows
-[57]:https://turnoff.us/geek/ubuntu-updates
-[58]:https://turnoff.us/geek/sql-server-on-linux-2
-[59]:https://turnoff.us/geek/love-ecma6
-[60]:https://turnoff.us/geek/dont-sigkill
-[61]:https://turnoff.us/geek/java20-predictions
-[62]:https://turnoff.us/geek/its-evolution-baby
-[63]:https://turnoff.us/geek/sql-server-on-linux
-[64]:https://turnoff.us/geek/lazy-justin-is-late-again
-[65]:https://turnoff.us/geek/agile-restaurant
-[66]:https://turnoff.us/geek/love-powershell
-[67]:https://turnoff.us/geek/linux-master-hero
-[68]:https://turnoff.us/geek/duke-tux
-[69]:https://turnoff.us/geek/geek-rivalries
-[70]:https://turnoff.us/geek/a-java-nightmare
-[71]:https://turnoff.us/geek/java-family-crisis
-[72]:https://turnoff.us/geek/annoying-software-3
-[73]:https://turnoff.us/geek/cloud-sometimes-hard-journey
-[74]:https://turnoff.us/geek/thread-sleep-room
-[75]:https://turnoff.us/geek/webserver-upgrade-training
-[76]:https://turnoff.us/geek/life-in-a-web-server
-[77]:https://turnoff.us/geek/mastering-regexp
-[78]:https://turnoff.us/geek/java-collections
-[79]:https://turnoff.us/geek/java-gc-explained
-[80]:https://turnoff.us/geek/waze-vs-battery
-[81]:https://turnoff.us/geek/masks
-[82]:https://turnoff.us/geek/bigdata-marriage
-[83]:https://turnoff.us/geek/annoying-software-2
-[84]:https://turnoff.us/geek/annoying-software
-[85]:https://turnoff.us/geek/advanced-species
-[86]:https://turnoff.us/geek/modern-evil
-[87]:https://turnoff.us/geek/software-test
-[88]:https://turnoff.us/geek/arduino-project
-[89]:https://turnoff.us/geek/tales-of-dos
-[90]:https://turnoff.us/geek/developers
-[91]:https://turnoff.us/geek/tcp-buddies
+*   ## [A Java Nightmare](https://turnoff.us/geek/a-java-nightmare)
+
+*   ## [Java Family Crisis](https://turnoff.us/geek/java-family-crisis)
+
+*   ## [Annoying Software 3 - The Date Situation](https://turnoff.us/geek/annoying-software-3)
+
+*   ## [The (Sometimes Hard) Cloud Journey](https://turnoff.us/geek/cloud-sometimes-hard-journey)
+
+*   ## [Thread.Sleep Room](https://turnoff.us/geek/thread-sleep-room)
+
+*   ## [Web Server Upgrade Training](https://turnoff.us/geek/webserver-upgrade-training)
+
+*   ## [Life in a Web Server](https://turnoff.us/geek/life-in-a-web-server)
+
+*   ## [Mastering RegExp](https://turnoff.us/geek/mastering-regexp)
+
+*   ## [Java Collections in Duck Life](https://turnoff.us/geek/java-collections)
+
+*   ## [Java Garbage Collection Explained](https://turnoff.us/geek/java-gc-explained)
+
+*   ## [Waze vs Battery](https://turnoff.us/geek/waze-vs-battery)
+
+*   ## [Big Data Marriage](https://turnoff.us/geek/bigdata-marriage)
+
+*   ## [Annoying Software 2](https://turnoff.us/geek/annoying-software-2)
+
+*   ## [Annoying Software](https://turnoff.us/geek/annoying-software)
+
+*   ## [Advanced Species](https://turnoff.us/geek/advanced-species)
+
+*   ## [The Modern Evil](https://turnoff.us/geek/modern-evil)
+
+*   ## [Software Testing](https://turnoff.us/geek/software-test)
+
+*   ## [Arduino Project](https://turnoff.us/geek/arduino-project)
+
+*   ## [Tales of DOS](https://turnoff.us/geek/tales-of-dos)
+
+*   ## [TCP Buddies](https://turnoff.us/geek/tcp-buddies)

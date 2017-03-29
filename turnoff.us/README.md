@@ -9,6 +9,11 @@ turnoff.us 漫画汉化
 
 - [静待后续汉化](https://github.com/LCTT/comic/blob/master/turnoff.us/turnoff.us.md)
 
+- 8、[用户空间选举大会
+](https://github.com/LCTT/comic/blob/master/turnoff.us/user-space-election/user-space-election.md) (由 GHLandy 汉化)
+
+  未发布
+
 - 7、[Vi 还是不 Vi，这是个问题](https://github.com/LCTT/comic/blob/master/turnoff.us/to-vi-or-not-to-vi/to-vi-or-not-to-vi.md) (由 GHLandy 汉化)
 
   发布在：[https://linux.cn/article-8342-1.html](https://linux.cn/article-8342-1.html)
