@@ -9,6 +9,11 @@ turnoff.us 漫画汉化
 
 - [静待后续汉化](https://github.com/LCTT/comic/blob/master/turnoff.us/turnoff.us.md)
 
+- 9、[烦人的软件
+](https://github.com/LCTT/comic/blob/master/turnoff.us/annoying-software-series/annoying-software-series.md) (由 GHLandy 汉化)
+
+  未发布
+
 - 8、[用户空间选举大会
 ](https://github.com/LCTT/comic/blob/master/turnoff.us/user-space-election/user-space-election.md) (由 GHLandy 汉化)
 
@@ -27,6 +32,8 @@ turnoff.us 漫画汉化
   发布在：[https://linux.cn/article-8318-1.html](https://linux.cn/article-8318-1.html)
 
 - 4、[Bash 的历史](https://github.com/LCTT/comic/blob/master/turnoff.us/bash_history/bash_history.md) (由 name1e5s 汉化、bestony鉴评)
+
+  发布在：[https://linux.cn/article-8316-1.html](https://linux.cn/article-8316-1.html)
 
 - 3、[孩子眼中的“二叉树”](https://github.com/LCTT/comic/blob/master/turnoff.us/binary-tree/binary-tree.md) (由 wxy 汉化)
 

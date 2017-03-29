@@ -1,7 +1,7 @@
 turnoff.us 上待汉化的漫画
 ====================
 
-最后更新于：2017 年 03 月 29 日
+最后更新于：2017 年 03 月 30 日
 
 *   ## [Life (and Death) in the DB Connection Pool](https://turnoff.us/geek/db-connection-pool)
 
@@ -46,8 +46,6 @@ turnoff.us 上待汉化的漫画
 *   ## [Programmer Levels](https://turnoff.us/geek/programmer-leves)
 
 *   ## [Microservices](https://turnoff.us/geek/microservices)
-
-*   ## [Annoying Software 4 - Checkbox vs Radio Button](https://turnoff.us/geek/annoying-software-4)
 
 *   ## [Zombie Processes](https://turnoff.us/geek/zombie-processes)
 
@@ -121,8 +119,6 @@ turnoff.us 上待汉化的漫画
 
 *   ## [Java Family Crisis](https://turnoff.us/geek/java-family-crisis)
 
-*   ## [Annoying Software 3 - The Date Situation](https://turnoff.us/geek/annoying-software-3)
-
 *   ## [The (Sometimes Hard) Cloud Journey](https://turnoff.us/geek/cloud-sometimes-hard-journey)
 
 *   ## [Thread.Sleep Room](https://turnoff.us/geek/thread-sleep-room)
@@ -140,10 +136,6 @@ turnoff.us 上待汉化的漫画
 *   ## [Waze vs Battery](https://turnoff.us/geek/waze-vs-battery)
 
 *   ## [Big Data Marriage](https://turnoff.us/geek/bigdata-marriage)
-
-*   ## [Annoying Software 2](https://turnoff.us/geek/annoying-software-2)
-
-*   ## [Annoying Software](https://turnoff.us/geek/annoying-software)
 
 *   ## [Advanced Species](https://turnoff.us/geek/advanced-species)
 
