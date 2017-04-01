@@ -1,4 +1,4 @@
-用户空间选举大会
+漫画赏析：用户空间选举大会
 ===============
 
 继上篇“[漫画赏析： Vi 还是不 Vi，这是个问题](https://linux.cn/article-8342-1.html)”，已经有一段日子。于是，昨天 (2017 年 03 月 28 日) 翻了翻 [Daniel](http://turnoff.us/about/) 的漫画，看到了这篇有点委婉的漫画，遂将之进行汉化并分享给大家。
@@ -16,7 +16,7 @@ via: http://turnoff.us/geek/user-space-election/
 
 作者：[Daniel Stori][a]
 译者：[GHLandy](https://github.com/GHLandy)
-校对：[校对ID](https://github.com/校对ID)
+校对：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
