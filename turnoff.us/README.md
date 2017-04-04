@@ -7,7 +7,13 @@ turnoff.us 漫画汉化
 
 如未特别注明，则漫画汉化与鉴评同为一人。
 
+最后更新于：2017 年 04 月 05 日
+
 - [静待后续汉化](https://github.com/LCTT/comic/blob/master/turnoff.us/turnoff.us.md)
+
+- 10、[Linux 版 SQL Server](https://github.com/LCTT/comic/blob/master/turnoff.us/sql-server-on-linux-series/sql-server-on-linux-series.md) (由 GHLandy 汉化)
+
+  未发布
 
 - 9、[烦人的软件
 ](https://github.com/LCTT/comic/blob/master/turnoff.us/annoying-software-series/annoying-software-series.md) (由 GHLandy 汉化)
@@ -17,7 +23,7 @@ turnoff.us 漫画汉化
 - 8、[用户空间选举大会
 ](https://github.com/LCTT/comic/blob/master/turnoff.us/user-space-election/user-space-election.md) (由 GHLandy 汉化)
 
-  未发布
+  发布在：[https://linux.cn/article-8365-1.html](https://linux.cn/article-8365-1.html)
 
 - 7、[Vi 还是不 Vi，这是个问题](https://github.com/LCTT/comic/blob/master/turnoff.us/to-vi-or-not-to-vi/to-vi-or-not-to-vi.md) (由 GHLandy 汉化)
 
