@@ -1,7 +1,9 @@
 turnoff.us 上待汉化的漫画
 ====================
 
-最后更新于：2017 年 03 月 30 日
+最后更新于：2017 年 04 月 05 日
+
+*   ## [Java Packaging System](https://turnoff.us/geek/java-packaging)
 
 *   ## [Life (and Death) in the DB Connection Pool](https://turnoff.us/geek/db-connection-pool)
 
@@ -91,8 +93,6 @@ turnoff.us 上待汉化的漫画
 
 *   ## [Ubuntu Updates](https://turnoff.us/geek/ubuntu-updates)
 
-*   ## [SQL Server on Linux Part 2](https://turnoff.us/geek/sql-server-on-linux-2)
-
 *   ## [About JavaScript Developers](https://turnoff.us/geek/love-ecma6)
 
 *   ## [The Real Reason to Not Use SIGKILL](https://turnoff.us/geek/dont-sigkill)
@@ -100,8 +100,6 @@ turnoff.us 上待汉化的漫画
 *   ## [Java 20 - Predictions](https://turnoff.us/geek/java20-predictions)
 
 *   ## [Do the Evolution, Baby!](https://turnoff.us/geek/its-evolution-baby)
-
-*   ## [SQL Server on Linux](https://turnoff.us/geek/sql-server-on-linux)
 
 *   ## [When Just-In-Time Is Justin Time](https://turnoff.us/geek/lazy-justin-is-late-again)
 
