@@ -1,7 +1,7 @@
 消沉的程序员系列漫画
 =========================
 
-最后更新于：2017 年 03 月 29 日
+最后更新于：2017 年 04 月 06 日
 
 ### 消沉的程序员 1
 
@@ -94,6 +94,7 @@ via:
 - http://turnoff.us/geek/the-depressed-developer-10/
 - http://turnoff.us/geek/the-depressed-developer-11/
 - http://turnoff.us/geek/the-depressed-developer-12/
+- http://turnoff.us/geek/the-depressed-developer-13/
 
 作者：[Daniel Stori][a]
 译者：[GHLandy](https://github.com/GHLandy)
