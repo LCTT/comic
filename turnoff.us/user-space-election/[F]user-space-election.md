@@ -17,7 +17,9 @@ via: http://turnoff.us/geek/user-space-election/
 作者：[Daniel Stori][a]
 译者：[GHLandy](https://github.com/GHLandy)
 校对：[wxy](https://github.com/wxy)
+合成：[GHLandy](https://github.com/GHLandy)
+点评：[GHLandy](https://github.com/GHLandy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
-[a]:https://turnoff.us/about/
+[a]:http://turnoff.us/about/

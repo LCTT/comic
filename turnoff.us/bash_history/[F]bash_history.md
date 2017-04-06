@@ -1,5 +1,5 @@
 Bash 的历史
-=========
+===
 
 ![bash_history](https://github.com/LCTT/comic/raw/master/turnoff.us/bash_history/bash_history.png)
 
@@ -11,9 +11,10 @@ via: http://turnoff.us/geek/bash-history/
 
 作者：[Daniel Stori][a]
 译者：[name1e5s](https://github.com/name1e5s)
-点评：[bestony](https://github.com/bestony)
 校对：[wxy](https://github.com/wxy)
+合成：[name1e5s](https://github.com/name1e5s)
+点评：[Bestony](https://github.com/Bestony)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
-[a]:http://turnoff.us/geek/bash-history/
+[a]:http://turnoff.us/about/

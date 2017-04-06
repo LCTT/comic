@@ -41,6 +41,8 @@ via: http://turnoff.us/geek/sudo-board-game/
 作者：[Daniel Stori][a]
 译者：[Bestony](https://github.com/Bestony)
 校对：[wxy](https://github.com/wxy)
+合成：[Bestony](https://github.com/Bestony)
+点评：[Bestony](https://github.com/Bestony)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 

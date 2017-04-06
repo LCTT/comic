@@ -5,7 +5,6 @@
 
 ![sudo board game](https://github.com/LCTT/comic/raw/master/turnoff.us/apache-vs-nginx/apache-vs-nginx.png)
 
-
 作为新生代的 Nginx 对已经 22 岁之老的 Apache 说，“一边去，老头，这 80 口不用你看着了，你得给新人腾腾地方了！”
 
 头顶羽毛（Apache 的 Logo 形象），身上的写着名字的牌子都是补上去的（a patch，即 Apache 这个词的出处）一脸懵逼，对小毛头 Nginx 说，“放尊重点，你觉得你已经能取代像我这样的老同志了吗？！”
@@ -29,6 +28,16 @@ via: http://turnoff.us/geek/apache-vs-nginx/
 作者：[Daniel Stori][a]
 译者：[wxy](https://github.com/wxy)
 校对：[wxy](https://github.com/wxy)
+
+本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+
+[a]:http://turnoff.us/about/
+
+作者：[Daniel Stori][a]
+译者：[wxy](https://github.com/wxy)
+校对：[wxy](https://github.com/wxy)
+合成：[wxy](https://github.com/wxy)
+点评：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 

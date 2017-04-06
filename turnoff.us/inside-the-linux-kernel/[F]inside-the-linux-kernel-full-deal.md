@@ -3,11 +3,9 @@
 
 ![inside the linux kernel](https://github.com/LCTT/comic/raw/master/turnoff.us/inside-the-linux-kernel/inside-the-linux-kernel-full-deal.png)
 
-
 今天，我来为大家解读一幅来自 TurnOff.us 的漫画 “InSide The Linux Kernel” 。 TurnOff.us 是一个极客漫画网站，作者Daniel Stori 画了一些非常有趣的关于编程语言、Web、云计算、Linux 相关的漫画。今天解读的便是其中的一篇。
 
 在开始，我们先来看看这幅漫画的全貌！
-
 
 这幅漫画是以一个房子的侧方刨面图来绘画的。使用这样的一个房子来代表 Linux 内核。
 
@@ -75,15 +73,16 @@ tty（终端）是对外沟通的渠道之一，但是，不是每一个进程�
 
 啊哈，我也不知道，或许是病毒？你说呢？
 
-
 ----
 
 via: ：http://turnoff.us/geek/inside-the-linux-kernel/
-    
+
 作者：[Daniel Stori][a]
 译者：[Bestony](https://github.com/Bestony)
 校对：[wxy](https://github.com/wxy)
-  
+合成：[Bestony](https://github.com/Bestony)
+点评：[Bestony](https://github.com/Bestony)
+
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
-  
-[a]: http://turnoff.us/about/
+
+[a]:http://turnoff.us/about/
