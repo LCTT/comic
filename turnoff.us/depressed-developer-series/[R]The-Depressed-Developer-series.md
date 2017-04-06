@@ -1,7 +1,5 @@
 消沉的程序员系列漫画
-=========================
-
-最后更新于：2017 年 04 月 06 日
+===
 
 ### 消沉的程序员 1
 
@@ -99,6 +97,8 @@ via:
 作者：[Daniel Stori][a]
 译者：[GHLandy](https://github.com/GHLandy)
 校对：[wxy](https://github.com/wxy)
+合成：[GHLandy](https://github.com/GHLandy)
+点评：[GHLandy](https://github.com/GHLandy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
