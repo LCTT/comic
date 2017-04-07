@@ -1,22 +1,20 @@
-The Modern Evil
+Waze vs Battery
 ===
 
-![The Modern Evil](https://turnoff.us/image/en/modern-evil.png)
+![Waze vs Battery](https://turnoff.us/image/en/waze-vs-battery.png)
 
-- The Modern Evil
-- Since the beginning of time, the evil is present in the world ...
+- This is what happens in my mobile when i open waze.
+- What's up, weakly.
+- Not you again fluffy!
 
-- ... in the pass it caused war and diseases ...
-
-
-- ... But nowadays the evil is smarter.
-- Crap!
+- I will show you the fluffy.
 
 
-- for example it is present on pages that block cantrol-C
+- Take is easy, fluffy!
+- No Battery is enough for me.
+- ... and waze always wins!
 
-
-via: https://turnoff.us/geek/modern-evil/
+via: https://turnoff.us/geek/waze-vs-battery/
 
 作者：[Daniel Stori][a]
 译者：[译者ID](https://github.com/译者ID)
