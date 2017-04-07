@@ -131,18 +131,18 @@ turnoff.us 上待汉化的漫画
 
 *   ## [Java Garbage Collection Explained](https://turnoff.us/geek/java-gc-explained)
 
-*   ## [Waze vs Battery](https://turnoff.us/geek/waze-vs-battery)
+* ## [Waze vs Battery](https://github.com/LCTT/comic/blob/master/turnoff.us/waze-vs-battery/[s]waze-vs-battery.md)
 
-*   ## [Big Data Marriage](https://turnoff.us/geek/bigdata-marriage)
+* ## [Big Data Marriage](https://github.com/LCTT/comic/blob/master/turnoff.us/bigdata-marriage/[s]bigdata-marriage.md)
 
-*   ## [Advanced Species](https://turnoff.us/geek/advanced-species)
+* ## [Advanced Species](https://github.com/LCTT/comic/blob/master/turnoff.us/advanced-species/[s]advanced-species.md)
 
-*   ## [The Modern Evil](https://turnoff.us/geek/modern-evil)
+* ## [The Modern Evil](https://github.com/LCTT/comic/blob/master/turnoff.us/modern-evil/[s]modern-evil.md)
 
-*   ## [Software Testing](https://turnoff.us/geek/software-test)
+* ## [Software Testing](https://github.com/LCTT/comic/blob/master/turnoff.us/software-test/[s]software-test.md)
 
-*   ## [Arduino Project](https://turnoff.us/geek/arduino-project)
+* ## [Arduino Project](https://github.com/LCTT/comic/blob/master/turnoff.us/arduino-project/[s]arduino-project.md)
 
-*   ## [Tales of DOS](https://turnoff.us/geek/tales-of-dos)
+* ## [Tales of DOS](https://github.com/LCTT/comic/blob/master/turnoff.us/tales-of-dos/[s]tales-of-dos.md)
 
-*   ## [TCP Buddies](https://turnoff.us/geek/tcp-buddies)
+* ## [TCP Buddies](https://github.com/LCTT/comic/blob/master/turnoff.us/tcp-buddies/[s]tcp-buddies.md)
