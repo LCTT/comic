@@ -7,13 +7,11 @@ turnoff.us 漫画汉化
 
 如未特别注明，则漫画汉化与鉴评同为一人。
 
-最后更新于：2017 年 04 月 05 日
-
 - [静待后续汉化](https://github.com/LCTT/comic/blob/master/turnoff.us/turnoff.us.md)
 
-- 10、[Linux 版 SQL Server](https://github.com/LCTT/comic/blob/master/turnoff.us/sql-server-on-linux-series/sql-server-on-linux-series.md) (由 GHLandy 汉化)
+- 10、[Linux 版 SQL Server](https://github.com/LCTT/comic/blob/master/turnoff.us/sql-server-on-linux-series/sql-server-on-linux-series.md) (由 GHLandy 汉化、wxy 点评)
 
-  未发布
+  发布在：[https://linux.cn/article-8376-1.html](https://linux.cn/article-8376-1.html)
 
 - 9、[烦人的软件
 ](https://github.com/LCTT/comic/blob/master/turnoff.us/annoying-software-series/annoying-software-series.md) (由 GHLandy 汉化)
@@ -37,7 +35,7 @@ turnoff.us 漫画汉化
 
   发布在：[https://linux.cn/article-8318-1.html](https://linux.cn/article-8318-1.html)
 
-- 4、[Bash 的历史](https://github.com/LCTT/comic/blob/master/turnoff.us/bash_history/bash_history.md) (由 name1e5s 汉化、bestony鉴评)
+- 4、[Bash 的历史](https://github.com/LCTT/comic/blob/master/turnoff.us/bash_history/bash_history.md) (由 name1e5s 汉化、bestony 点评)
 
   发布在：[https://linux.cn/article-8316-1.html](https://linux.cn/article-8316-1.html)
 
