@@ -1,7 +1,7 @@
 turnoff.us 上待汉化的漫画
-====================
+=======
 
-最后更新于：2017 年 04 月 05 日
+* ## [When You Hire The Wrong Architect](https://github.com/LCTT/comic/blob/master/turnoff.us/wrong-architect/[s]wrong-architect.md)
 
 *   ## [Java Packaging System](https://turnoff.us/geek/java-packaging)
 
@@ -125,11 +125,11 @@ turnoff.us 上待汉化的漫画
 
 *   ## [Life in a Web Server](https://turnoff.us/geek/life-in-a-web-server)
 
-*   ## [Mastering RegExp](https://turnoff.us/geek/mastering-regexp)
+* ## [Mastering RegExp](https://github.com/LCTT/comic/blob/master/turnoff.us/mastering-regexp/[s]mastering-regexp.md)
 
-*   ## [Java Collections in Duck Life](https://turnoff.us/geek/java-collections)
+* ## [Java Collections in Duck Life](https://github.com/LCTT/comic/blob/master/turnoff.us/java-collections/[s]java-collections.md)
 
-*   ## [Java Garbage Collection Explained](https://turnoff.us/geek/java-gc-explained)
+* ## [Java Garbage Collection Explained](https://github.com/LCTT/comic/blob/master/turnoff.us/java-gc-explained/[s]java-gc-explained.md)
 
 * ## [Waze vs Battery](https://github.com/LCTT/comic/blob/master/turnoff.us/waze-vs-battery/[s]waze-vs-battery.md)
 

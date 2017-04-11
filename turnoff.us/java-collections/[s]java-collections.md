@@ -16,7 +16,7 @@ Java Collections in Duck Life
 
 
 via:
-- https://turnoff.us/geek/java-gc-explained/
+- https://turnoff.us/geek/java-collections/
 
 作者：[Daniel Stori][a]
 译者：[译者ID](https://github.com/译者ID)
