@@ -67,6 +67,12 @@
 
 嘿嘿，明明你有很厉害的东西想要分享给自己的同伴，可是他们并不能理解那意味着什么，然后拿一些简单的不能再简单的事情来问你。是不是感觉好尴尬呢。看来有些事儿，分享也要看人的吧，否则表错情真的是大写的失落。
 
+### 消沉的程序员 14
+
+![depressed-developer-14](https://github.com/LCTT/comic/raw/master/turnoff.us/depressed-developer-series/depressed-developer-14.png)
+
+不管什么是在什么事情上，你所期待的结果，都是通过尽心设计才能得到的。所以，有拖延症的各位亲们，切莫把所有都拖到最后一分钟才去考虑解决方案哦，不然会死的很惨的。
+
 ### 后记
 
 看至此处，各位朋友是不是感觉少了系列的第 8 和第 9 篇？起初，译者也这么想，后来问了作者 Daniel Stori 之后，才恍然，原来序号采用了八进制，按照作者说的，一个隐式的玩笑。明白了吗，朋友们？
@@ -93,6 +99,8 @@ via:
 - http://turnoff.us/geek/the-depressed-developer-11/
 - http://turnoff.us/geek/the-depressed-developer-12/
 - http://turnoff.us/geek/the-depressed-developer-13/
+- http://turnoff.us/geek/the-depressed-developer-14/
+
 
 作者：[Daniel Stori][a]
 译者：[GHLandy](https://github.com/GHLandy)
