@@ -1,22 +1,24 @@
-Advanced Species
+高级物种
 ===
 
 ![Advanced Species](https://turnoff.us/image/en/erlang.png)
 
-- found something?
-- Writings of some Species that lived here.
+- 发现了什么？
+- 其他住在这里的物种的著作
 
 
-- Forget ... It's in erlang
-- Let it go. We will never understand.
+- 忘了...这是 Erlang
+- 算了吧！我们永远都不会明白它的！
+
+这是一片吐槽 Erlang 有多难的一幅漫画。Erlang 太难，以至于被认作是其他物种的著作。
 
 via: https://turnoff.us/geek/advanced-species/
 
 作者：[Daniel Stori][a]
-译者：[译者ID](https://github.com/译者ID)
+译者：[Bestony](https://github.com/Bestony)
 校对：[校对者ID](https://github.com/校对者ID)
 合成：[合成者ID](https://github.com/合成者ID)
-点评：[点评ID](https://github.com/点评者ID)
+点评：[Bestony](https://github.com/Bestony)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
