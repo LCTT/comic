@@ -1,9 +1,9 @@
 极客漫画：气人的软件
 ===============
 
-### 烦人的软件 1
+### 气人的软件 1
 
-![user-space-election](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software.png)
+![annoying-software 1](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software.png)
 
 软件：
 
@@ -15,9 +15,9 @@
 
 ——这软件真气人！
 
-### 烦人的软件 2
+### 气人的软件 2
 
-![user-space-election](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-2.png)
+![annoying-software 2](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-2.png)
 
 软件：
 
@@ -27,18 +27,19 @@
 
 ——你才该吃药呢！
 
-### 烦人的软件 3
+### 气人的软件 3
 
-![user-space-election](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-3.png)
+![annoying-software 3](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-3.png)
 
 自作聪明的软件，屡屡让人发疯！
 
-### 烦人的软件 4
+### 气人的软件 4
 
-![user-space-election](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-4.png)
+![annoying-software 4](https://github.com/LCTT/comic/raw/master/turnoff.us/annoying-software-series/annoying-software-4.png)
 
 我觉得现在都用 LCD 显示器有一个好处就是，你可以一拳打破而不用担心骨折（流血那种事情不在我们的考虑之中~）。
 
+好气呀！
 
 ------------
 via:
