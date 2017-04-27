@@ -1,19 +1,24 @@
-Java Collections in Duck Life
+鸭子爸爸生活中的 Java 集合框架
 =====
 
 ![Java Collections in Duck Life](https://turnoff.us/image/en/java-collections.png)
 
-- Sometimes a QUEUE makes sense ...
-- Quack! add!
-- Quack! remote!
+- 有时一个队列就能搞定 ...
+- 嘎嘎 入列！
+- 嘎嘎 出列！
 
 
-- ... Sometimes Just a SET is enough.
-- Quack! remote!
-- eventually a MAP is necessary...
+- ... 有时个用集合就够了。
+- 嘎嘎 吐除！
 
-- ...but sooner or later we all need to deal with a STACK.
+- 最终可能需要用上图...
+- 嘎嘎 放这吧！
 
+- ...不过迟早，我们还是需要用栈来解决。
+- 出栈！
+
+随着需求不断的增加，数据管理也将变得越发复杂。
+最后的那句话，完全只是因为函数存放在栈中，嘎嘎！
 
 via:
 - https://turnoff.us/geek/java-collections/
