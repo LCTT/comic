@@ -1,12 +1,10 @@
-Arduino 项目
+极客漫画：让你变成“机电工程师”的 Arduino 项目
 ===
 
 ![Arduino Project](https://turnoff.us/image/en/arduino-new.png)
 
 - 刚刚完成我的第一个 Arduino 项目：一个闪烁的 LED
-- 下一步：更新我的 Linkin 详情
-
-
+- 下一步：更新我的 LinkedIn 详情
 - 添加技能
 - 机电工程师
 
@@ -16,7 +14,7 @@ via: https://turnoff.us/geek/arduino-project/
 
 作者：[Daniel Stori][a]
 译者：[Bestony](https://github.com/Bestony)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[wxy](https://github.com/wxy)
 合成：[合成者ID](https://github.com/合成者ID)
 点评：[Bestony](https://github.com/Bestony)
 
