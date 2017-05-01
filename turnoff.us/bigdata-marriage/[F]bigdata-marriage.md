@@ -1,18 +1,20 @@
 极客漫画：大数据婚姻
 ===
 
-![Big Data Marriage](https://turnoff.us/image/en/bigdata2.png)
+![Big Data Marriage](https://github.com/LCTT/comic/raw/master/turnoff.us/bigdata-marriage/bigdata2.png)
 
 - 你为“大数据”准备好了么？
 - 婚后！
 
-![Big Data Marriage](https://turnoff.us/image/en/bigdata2.png.post/post-script-1.png)
+![Big Data Marriage](https://github.com/LCTT/comic/raw/master/turnoff.us/bigdata-marriage/post-script-1.png)
 
 - 附言
 - 2016 年 1 月 21 日
-- 有人说这个漫画是性别歧视的！ 看，这个怎么会是性别歧视！我的妻子喜欢漫画，事实上她喜欢这个漫画，每天她都告诉我，她喜欢这个漫画！其实每一个小时，每一分钟，她都会不停的说这个 XD 
- 
+- 有人说这个漫画是性别歧视的！ 看，这个怎么会是性别歧视！我的妻子喜欢漫画，事实上她喜欢这个漫画，每天她都告诉我，她喜欢这个漫画！其实每一个小时，每一分钟，她都会不停的说这个 XD
+
 ---
+
+点评：
 
 这幅漫画是作者假借大数据来吐槽自己的老婆太唠叨了。
 
@@ -21,10 +23,9 @@
 via: https://turnoff.us/geek/bigdata-marriage/
 
 作者：[Daniel Stori][a]
-译者：[Bestony](https://github.com/bestony)
+译者&点评：[Bestony](https://github.com/bestony)
 校对：[wxy](https://github.com/wxy)
-合成：[合成者ID](https://github.com/合成者ID)
-点评：[Bestony](https://github.com/Bestony)
+合成：[GHLandy](https://github.com/GHLandy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
