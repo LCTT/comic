@@ -1,22 +1,21 @@
-高级物种
+极客漫画：让高等生命都迷茫的 Erlang
 ===
 
 ![Advanced Species](https://turnoff.us/image/en/erlang.png)
 
 - 发现了什么？
-- 其他住在这里的物种的著作
+- 这是一本以前在这里生活的物种的著作
 
+- 算了.……那是用 Erlang 写的
+- 走吧，我们根本读不懂！
 
-- 忘了...这是 Erlang
-- 算了吧！我们永远都不会明白它的！
-
-这是一片吐槽 Erlang 有多难的一幅漫画。Erlang 太难，以至于被认作是其他物种的著作。
+这是一片吐槽 Erlang 有多难的一幅漫画。Erlang 太难，连未来到访的外星人都无法破译。
 
 via: https://turnoff.us/geek/advanced-species/
 
 作者：[Daniel Stori][a]
 译者：[Bestony](https://github.com/Bestony)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[wxy](https://github.com/wxy)
 合成：[合成者ID](https://github.com/合成者ID)
 点评：[Bestony](https://github.com/Bestony)
 
