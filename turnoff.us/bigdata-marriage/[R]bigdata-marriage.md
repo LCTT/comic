@@ -4,7 +4,7 @@
 ![Big Data Marriage](https://turnoff.us/image/en/bigdata2.png)
 
 - 你为“大数据”准备好了么？
-- 让我们结婚吧！
+- 婚后！
 
 ![Big Data Marriage](https://turnoff.us/image/en/bigdata2.png.post/post-script-1.png)
 
