@@ -1,18 +1,16 @@
-掌握正则表达式
+极客漫画：精通正则表达式
 =====
 
 ![Mastering RegExp](https://turnoff.us/image/en/regexp.png)
 
-- 够了！我不要离开这个房子，除非我掌握了 RegExp！
+- 够了！我要是掌握不了正则表达式，我绝不离开！
 
 
 - 敲 敲 敲
 - 敲 敲 敲 敲 敲
 
-
 - 时间过去了很久，咖啡被喝了很多...
-- 现在我明白了！ 我理解 RegExp 的每一个概念！
-
+- 现在我明白了！ 我理解正则表达式的每一个概念！
 
 - 现在，我要向那些工作的人们展示我所拥有的.....
 
@@ -28,7 +26,7 @@ via:
 
 作者：[Daniel Stori][a]
 译者：[Bestony](https://github.com/Bestony)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[wxy](https://github.com/wxy)
 合成：[合成者ID](https://github.com/合成者ID)
 点评：[Bestony](https://github.com/Bestony)
 
