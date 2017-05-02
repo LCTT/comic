@@ -11,6 +11,7 @@
 
 这是一篇吐槽 Erlang 有多难的一幅漫画。Erlang 太难，连未来到访的外星人都无法破译。
 
+---
 via: https://turnoff.us/geek/advanced-species/
 
 作者：[Daniel Stori][a]
