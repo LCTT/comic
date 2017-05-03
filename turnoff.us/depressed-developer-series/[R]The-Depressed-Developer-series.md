@@ -73,6 +73,18 @@
 
 不管什么是在什么事情上，你所期待的结果，都是通过尽心设计才能得到的。所以，有拖延症的各位亲们，切莫把所有都拖到最后一分钟才去考虑解决方案哦，不然会死的很惨的。
 
+### 消沉的程序员 15
+
+![depressed-developer-15](https://github.com/LCTT/comic/raw/master/turnoff.us/depressed-developer-series/depressed-developer-15.png)
+
+不管是哪行哪业，诸如 It 行业的代码、生成加工等，安全大概都是可以作为一个永恒的话题。越是觉得可以忽略的细小事情，还真是月容易造成重大的安全事故。所以，不管何种情况下，该做的安全考虑都是必不可少的。
+
+### 消沉的程序员 16
+
+![depressed-developer-16](https://github.com/LCTT/comic/raw/master/turnoff.us/depressed-developer-series/depressed-developer-16.png)
+
+哎，又是 Bug 和 Debug！ 感觉代码之中永远脱离不了这个魔咒啊！还真是尴尬。不知道，编码之间进行详细的规划，能不能尽量避免那些不必要的 Dug？
+
 ### 后记
 
 看至此处，各位朋友是不是感觉少了系列的第 8 和第 9 篇？起初，译者也这么想，后来问了作者 Daniel Stori 之后，才恍然，原来序号采用了八进制，按照作者说的，一个隐式的玩笑。明白了吗，朋友们？
@@ -100,7 +112,8 @@ via:
 - http://turnoff.us/geek/the-depressed-developer-12/
 - http://turnoff.us/geek/the-depressed-developer-13/
 - http://turnoff.us/geek/the-depressed-developer-14/
-
+- http://turnoff.us/geek/the-depressed-developer-15/
+- http://turnoff.us/geek/the-depressed-developer-16/
 
 作者：[Daniel Stori][a]
 译者：[GHLandy](https://github.com/GHLandy)
