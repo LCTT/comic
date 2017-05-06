@@ -77,13 +77,13 @@
 
 ![depressed-developer-15](https://github.com/LCTT/comic/raw/master/turnoff.us/depressed-developer-series/depressed-developer-15.png)
 
-不管是哪行哪业，诸如 It 行业的代码、生成加工等，安全大概都是可以作为一个永恒的话题。越是觉得可以忽略的细小事情，还真是月容易造成重大的安全事故。所以，不管何种情况下，该做的安全考虑都是必不可少的。
+不管是哪行哪业，诸如 IT 行业的代码、生成加工等，安全大概都是可以作为一个永恒的话题。越是觉得可以忽略的细小事情，还真是越容易造成重大的安全事故。所以，不管何种情况下，该做的安全考虑都是必不可少的。
 
 ### 消沉的程序员 16
 
 ![depressed-developer-16](https://github.com/LCTT/comic/raw/master/turnoff.us/depressed-developer-series/depressed-developer-16.png)
 
-哎，又是 Bug 和 Debug！ 感觉代码之中永远脱离不了这个魔咒啊！还真是尴尬。不知道，编码之间进行详细的规划，能不能尽量避免那些不必要的 Dug？
+哎，又是 Bug 和 Debug！ 感觉代码之中永远脱离不了这个魔咒啊！还真是尴尬。不知道，编码之间进行详细的规划，能不能尽量避免那些不必要的 Bug？
 
 ### 后记
 
