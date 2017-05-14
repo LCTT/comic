@@ -1,7 +1,7 @@
 极客漫画：Java 垃圾回收说明
 =====
 
-![Java Garbage Collection Explained](https://github.com/LCTT/comic/raw/master/turnoff.us/java-collections/java-gc-explained.png)
+![Java Garbage Collection Explained](https://github.com/LCTT/comic/raw/master/turnoff.us/java-gc-explained/java-gc-explained.png)
 
 - 大家好，John 要在这里清理垃圾了，你们可以出去么？
 
