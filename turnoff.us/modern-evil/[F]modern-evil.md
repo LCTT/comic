@@ -1,7 +1,7 @@
 极客漫画：现代的邪恶——不许 Ctrl-C
 ===
 
-![The Modern Evil](https://turnoff.us/image/en/modern-evil.png)
+![The Modern Evil](https://github.com/LCTT/comic/raw/master/turnoff.us/modern-evil/modern-evil.png)
 
 - 现代的邪恶
 - 自从一开始，邪恶就存在于世界...
@@ -16,13 +16,14 @@
 
 在页面上，Control-C 的作用是复制，当一个页面禁用了 Control-C 时……这得是多邪恶？！
 
+----
+
 via: https://turnoff.us/geek/modern-evil/
 
 作者：[Daniel Stori][a]
-译者：[Bestony](https://github.com/Bestony)
-校对：[wxy](https://github.com/wxy)
-合成：[合成者ID](https://github.com/合成者ID)
-点评：[Bestony](https://github.com/Bestony)
+译者&点评：[Bestony](https://github.com/Bestony)
+校对&合成：[wxy](https://github.com/wxy)
+
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
