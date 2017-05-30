@@ -1,7 +1,7 @@
 We Need to Talk About SSL
 ===============
 
-![we-need-to-talk-about-ssl](http://turnoff.us/image/en/how-to-break-up-with-a-programmer.png)
+![we-need-to-talk-about-ssl](http://turnoff.us/image/en/we-need-to-talk-about-ssl.png)
 
 - Good Morning. I was wondering if  I cloud check out your stores's latest orders.
 - Are you Crazy? That's confidential information.
