@@ -1,7 +1,7 @@
-极客漫画： Java 惊魂
+极客漫画： 一场 Java 惊魂之旅
 ===============
 
-![A Java Nightmare](http://turnoff.us/image/en/a-java-nightmare.png)
+![A Java Nightmare](https://github.com/LCTT/comic/raw/master/turnoff.us/a-java-nightmare/a-java-nightmare.png)
 
 - 上周末我决定带我儿子去迪士尼乐园，但是好像有什么不对……
 - 爸爸，公园变样啦！
@@ -21,13 +21,13 @@
 	- 堆栈空间
 	- 山脉
 - 真酷，我们去体验下汤姆猫小岛有啥好玩的！
-- 真爽！我要去看那个“神秘阀门”！！
+- 真棒！我要去看那个“神秘阀门”！！
 	- 通往小小新世界
 	- 拼图馆
 	- 汤姆猫小岛
-- 意外抛出！公园疏散！意外抛出！公园疏散！
-- 爸爸，什么是意外？
-- 别管它，跑！一会再……
+- 异常抛出！公园疏散！异常抛出！公园疏散！
+- 爸爸，什么是异常啊？
+- 别管它，快跑！一会再解……
 - 跑啊儿子！快跑！！
 - 爸爸！
 - 抓到你了！
@@ -43,7 +43,7 @@
 
 驶过道路上的标牌，上面分别写着：
 
-- “麦格王国”，麦格——mageek，应该影射的是  [Majava.A 安全漏洞](https://www.f-secure.com/v-descs/exploit_java_majava_a.shtml)，这是一个攻击 JRE 漏洞的恶意文件，此处嘲讽 Java 的安全缺陷。
+- “麦格王国”，麦格——mageek，可能影射的是  [Majava.A 安全漏洞](https://www.f-secure.com/v-descs/exploit_java_majava_a.shtml)，这是一个攻击 JRE 漏洞的恶意文件，此处嘲讽 Java 的安全缺陷。
 - “热点中心”，热点——Hotspot，是 Java 一个较新的虚拟机。
 - “极演播室”，极——JEE，即 Java EE，是 J2EE 的一个新名称，面向企业的一种应用框架/标准。
 
@@ -55,16 +55,15 @@
 
 - 小小新世界，“hello world” 是各种编程语言教学中通常学生们接触到的第一个程序例子。
 - 拼图馆，拼图——Jigsaw，是 OpenJDK 项目下的一个子项目，旨在为 Java SE 平台设计实现一个标准的模块系统，并应用到该平台和 JDK 中。
-- 汤姆猫小岛，汤姆猫——tomcat，Tomcat 服务器是一个自由开源的 Web 应用服务器，用于 JSP 程序。
+- 汤姆猫小岛，汤姆猫——Tomcat，Tomcat 服务器是一个自由开源的 Web 应用服务器，用于 JSP 程序。
 
 孩子兴奋极了，要去那个“神秘阀门”去玩。我觉得也可以去汤姆猫小岛看看，此处用 servlets 指代了服务项目。而 servlet 是一种 Java 应用。
 
-正在这时，广播发出警告，“意外（例外）抛出”——exception thrown 是 Java 等语言用于处理例外情况的机制。得赶紧疏散，而可怜的娃还不明白发生了什么。跑吧！
+正在这时，广播发出警告，“异常抛出”——Exception Thrown 是 Java 等语言用于处理异常情况的机制。得赶紧疏散，而可怜的娃还不明白发生了什么。跑吧！
 
 结果爸爸被触手怪抓去了——触手怪的下面写着“内存溢出”，一定是因为这个才导致触手怪出现的！
 
 眼看电锯就要切到脑袋上了——啊，吓死我了，原来是有一个 Java 的噩梦啊！
-
 
 ----
 
@@ -72,9 +71,6 @@ via: http://turnoff.us/geek/a-java-nightmare/
 
 作者：[Daniel Stori][a]
 译者：[wxy](https://github.com/wxy)
-校对：[校对者ID](https://github.com/校对者ID)
-合成：[合成者ID](https://github.com/合成者ID)
-点评：[点评ID](https://github.com/点评者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
