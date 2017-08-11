@@ -1,7 +1,7 @@
 极客漫画：Linux 内核中的兄弟打架
 ===============
 
-![the-depressed-developer](https://github.com/LCTT/comic/raw/master/turnoff.us/brothers-conflict/brothers-conflict.png)
+![Brothers Conflict (at linux kernel)](https://github.com/LCTT/comic/raw/master/turnoff.us/brothers-conflict/brothers-conflict.png)
 
 - 此刻，在 Linux 内核中……
 - 好，我是你们的进程，你们是我的线程。我想知道你们谁把小弟的堆栈搞乱了，要是没人承认就就全干掉（SIGSTOPED）。
