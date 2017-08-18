@@ -1,4 +1,4 @@
-Adopt a good cause, DON'T SIGKILL
+极客漫画：没特别的理由，别用 SIGKILL
 ===============
 
 ![Adopt a good cause, DON'T SIGKILL](http://turnoff.us/image/en/dont-sigkill-2.png)
@@ -7,14 +7,15 @@ Adopt a good cause, DON'T SIGKILL
 - USE SIGTERM
 - THINK ABOUT THE THREADS
 
-via:
-- http://turnoff.us/geek/dont-sigkill-2/
+---
+
+为线程们想想吧，不要随便用 SIGKILL！
+
+---
+via: http://turnoff.us/geek/dont-sigkill-2/
 
 作者：[Daniel Stori][a]
-译者：[译者ID](https://github.com/译者ID)
-校对：[校对者ID](https://github.com/校对者ID)
-合成：[合成者ID](https://github.com/合成者ID)
-点评：[点评ID](https://github.com/点评者ID)
+点评：[wxy](https://github.com/wxy)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
