@@ -10,7 +10,7 @@ Deadline
 - I'm Serious.
 - Okay, Okay,Give me doctor who's Tardis!
 
-![](https://github.com/zionfuo/comic/tree/master/turnoff.us/deadlinedeadlinecn.png)
+![](https://raw.githubusercontent.com/zionfuo/comic/master/turnoff.us/deadline/deadlinecn.png)
 
 - 所以，你不应该忘记你只有三个月时间来开发软件。
 - 额，因为如此，我想我应该从1994年开始开发。
