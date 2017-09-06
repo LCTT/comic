@@ -119,7 +119,7 @@ PS. 以下按照源站漫画原标题字母先后顺序列举
 
   发布在：[https://linux.cn/article-8610-1.html](https://linux.cn/article-8610-1.html)
 
-- [The Depressed Developer (消沉的程序员系列)](https://github.com/LCTT/comic/blob/master/turnoff.us/depressed-developer-series/[R]The-Depressed-Developer-series.md)
+- [The Depressed Developer (消沉的程序员系列)](https://github.com/LCTT/comic/blob/master/turnoff.us/depressed-developer-series/[F]The-Depressed-Developer-series.md)
 
   发布在：
   - [https://linux.cn/article-8318-1.html](https://linux.cn/article-8318-1.html)
