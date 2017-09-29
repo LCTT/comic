@@ -2,7 +2,7 @@
 ===============
 
 
-![](https://raw.githubusercontent.com/LCTT/comic/master/turnoff.us/deadline/deadline.png)
+![](https://github.com/LCTT/comic/raw/master/turnoff.us/deadline/deadline.png)
 
 DeLorean：美国经典科幻电影系列《回到未来》中的时光汽车
 

@@ -1,7 +1,7 @@
 极客漫画：HTTP2 服务器推送
 ===============
 
-![http2-server-push.png](https://raw.githubusercontent.com/LCTT/comic/master/turnoff.us/http2-server-push/http2-server-push.png)
+![http2-server-push.png](https://github.com/LCTT/comic/raw/master/turnoff.us/http2-server-push-explained/http2-server-push-explained.png)
 
 - 嗨，请给我拿瓶最便宜的酒
 - 给你酒，还有头疼药和一些维生素，总共 $9.99 
