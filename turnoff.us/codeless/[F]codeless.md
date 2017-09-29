@@ -1,9 +1,9 @@
 极客漫画：Codeless 开发者
 ===============
 
-![The Codeless Developer](http://turnoff.us/image/en/codeless.png)
+![The Codeless Developer](https://github.com/LCTT/comic/raw/master/turnoff.us/apache-vs-nginx/codeless/codeless.png)
 
-- 从你的简历上可以看到，我了解到你是一位 ServerLess 专家，No-database 和 No-Frontend 专家！
+- 通过你的简历，我了解到你是一位 ServerLess 专家，No-database 和 No-Frontend 专家！
 - 我还有个 serverless 认证。
 - 你被录用了！马上就入职。
 - 放心交给我吧！
